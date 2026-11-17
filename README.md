@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </p>
 
 ## 🚀 En lo que trabajo
@@ -25,6 +27,8 @@
 ## 📊 GitHub Stats
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JuanAndreAV/eventpass-api)
+![Docker Image Last Updated](https://img.shields.io/docker/last-updated/juanitocode/juanito-cron-ticker)
+
 
 
 <p>
